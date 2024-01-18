@@ -1,0 +1,61 @@
+h2{
+  text-align: center;  
+}
+img{
+  width: 20%; 
+}
+table {
+    width: 100%;
+    border-radius: 20px;
+  }
+
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    border-radius: 20px;
+  }
+
+  th {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 20px;
+  }
+
+  td:nth-child(odd) {
+    background-color: #f2f2f2;
+    border-radius: 20px;
+  }
+
+  td:nth-child(even) {
+    background-color: #d9d9d9;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    border-radius: 20px;
+  }
+
+  th {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 20px;
+  }
+
+  td.DigitálisKultúra { background-color: #FFD700; }
+  td.MagyarNyelv { background-color: #87CEEB; }
+  td.Irodalom { background-color: #98FB98; }
+  td.Angol { background-color: #FFA07A; }
+  td.Matematika { background-color: #FF6347; }
+  td.Fizika { background-color: #DDA0DD; }
+  td.Földrajz { background-color: #90EE90; }
+  td.Ital { background-color: #FFE4B5; }
+  td.Kémia { background-color: #00FA9A; }
+  td.Tesi { background-color: #FF4500; }
+  td.IPRL { background-color: #8A2BE2; }
+  td.Biológia { background-color: #00BFFF; }
+  td.Történelem { background-color: #FF8C00; }
+  td.Pra { background-color: #A0522D; }
+  td.Osztályfőnöki { background-color: #C71585; }
+  td.ora { background-color:#4CAF50; width: 150px;}
