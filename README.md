@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>9.a Órarend</title>
